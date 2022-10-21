@@ -1,3 +1,5 @@
+**[Fork先](https://github.com/AndroPlus-org/magisk-module-pixel6)の変更点を最小限に変更したレポジトリーです。**
+
 ## Google Pixel 向けパッチ
 
 Google Pixel (Android 12+) にて
