@@ -6,3 +6,4 @@
 # if Magisk change its mount point in the future
 
 setprop audio.camerasound.force false
+setprop net.tethering.noprovisioning true
