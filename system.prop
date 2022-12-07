@@ -1,1 +1,2 @@
 audio.camerasound.force=false
+net.tethering.noprovisioning=true
