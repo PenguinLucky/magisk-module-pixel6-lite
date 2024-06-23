@@ -1,6 +1,6 @@
 ## 変更点
 **[Fork元](https://github.com/AndroPlus-org/magisk-module-pixel6)の変更点を最小限に変更したレポジトリーです。**
-Google Pixel 7 Proで動作確認済みです。
+Google Pixel 8 Proで動作確認済みです。
 `optional`にあるAPKファイルを`system/product/overlay`へ追加することで、削除された一部の機能を追加できます。
 
 ## Google Pixel 向けパッチ
@@ -14,7 +14,7 @@ Google Pixel (Android 12+) にて
 をする Magisk モジュールです。  
 必要ないものがあれば overlay フォルダにある apk を削除するかデコンパイルして編集してください。
 
-Google Pixel 6 Pro, Google Pixel 7 Pro で動作確認済みです。
+Google Pixel 8 Pro で動作確認済みです。
 
 ## 更新履歴
 
